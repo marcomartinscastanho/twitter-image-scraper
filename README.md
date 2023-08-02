@@ -2,7 +2,7 @@
 
 This is the root folder for a multi-repository project called Twitter Image Scraper.  
 This repository contains only a set of useful scripts to start the multiple components of the project.  
-The scripts were written for MacOS, but are easily adapter for Linux.  
+The scripts were written for MacOS, but are easily adapted for Linux.  
 
 The complete project consist of 3 repositories:
 
@@ -10,10 +10,10 @@ The complete project consist of 3 repositories:
 - [ntf-backend](https://github.com/marcomartinscastanho/ntf-backend) - a Django headless back-end that works as image gallery, serving a REST API through Django REST Framework that allows to store/access images in the gallery
 - [ntf-frontend](https://github.com/marcomartinscastanho/ntf-frontend) - a React web app that shows the gallery of saved images
 
-Once upon a time, it was also possible to publish images saved in the gallery to a Tumblr-like blog website, but that's no longer possible.  
+It was once also possible to publish images saved in the gallery to a Tumblr-like blog website, but that's no longer possible.  
 Still, the code to do that was kept for purposes of future consultation.  
 
-The purpose of this project was simply to learn and practice useful technologies.
+The purpose of this project was to learn and practice useful technologies.
 
 ## Installing
 
