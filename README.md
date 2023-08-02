@@ -44,5 +44,5 @@ Starts the celery worker, that was responsible for posting images to a selected 
 ### `frontend.sh`
 
 Starts the React frontend, making it possible to access the webpage that displayes the image gallery.  
-When posting to external blogs was possible, it was also done through this webpage.
+When posting to external blogs was possible, it was also done through this webpage.  
 Open [http://localhost:3000](http://localhost:3000) to access the gallery.
