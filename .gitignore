@@ -1,0 +1,11 @@
+/env
+/ntf-backend
+/ntf-frontend
+/ntf-scraper
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
